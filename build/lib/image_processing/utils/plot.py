@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+from matplotlib.pyplot as plt
 
 def plot_image(image):
     plt.figure(figsize=(12, 4))
